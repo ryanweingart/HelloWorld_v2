@@ -3,7 +3,7 @@
 # Ch@
 
 ## Description
-Ch@ is a chat app created to connect users that want to converse about topics, subjects, and events of similar interest. "Be a big fish in a small". The app gives the user the ability to create his/her personal space, or a Community, where other users can join in.
+Ch@ is a chat app created to connect users that want to converse about topics, subjects, and events of similar interest. "Be a big fish in a small pond". The app gives the user the ability to create his/her personal space, or a Community, where other users can join in.
 
 
 ## Functionality Overview
